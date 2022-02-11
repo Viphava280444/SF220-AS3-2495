@@ -1,0 +1,31 @@
+body{background-color: black;
+    color:white;
+    font-family: cursive;}
+nav{text-align: center}
+footer{text-align: center;
+    border-color:red;
+    border-style:double; 
+    background-color: rgba(255, 0, 0, 0.233)}
+h1 {text-align: center;
+    border-color:red;
+    border-style:double; 
+    background-color: rgba(255, 0, 0, 0.233)}
+  a:link, a:visited {
+  background-color:whitesmoke;
+  color: black;
+  border: 1px double red;
+  padding: 5px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;}
+  a:hover, a:active {
+  background-color: red;
+  color: white;
+}
+blockquote {border-color: red;
+            border-style: dashed}
+   
+
+ 
+
+
